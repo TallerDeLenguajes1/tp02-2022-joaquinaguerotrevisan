@@ -1,0 +1,12 @@
+¿Puede ver el archivo tp2_1_2?¿Por qué?
+
+    No puedo ver el archivo tp2_1_2 ya que se encunetra en otra branch (Opcion_2) y no se encuentra en el main.
+
+¿Qué diferencias nota?
+
+    Se realizaron 2 versiones diferentes del trabajo que estoy realizando, en el main esta el tp2_1_1 mientras que el tp2_1_2 esta en la branch Opcion_2.
+
+Luego utilice el comando gitk -–all para ver los cambios, ¿Qué nota?
+
+    Que la branch Opcion_2 se combino con el main para volver a ser una linea unica de tareas.
+
